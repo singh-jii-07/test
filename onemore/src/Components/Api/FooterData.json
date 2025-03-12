@@ -1,0 +1,19 @@
+[
+      {
+        "name": "Nelson Mandela",
+        "title": "Former President of South Africa",
+        "famous_for": ["Anti-apartheid movement", "First Black President of South Africa", "Nobel Peace Prize Winner"]
+      },
+      {
+        "name": "Albert Einstein",
+        "title": "Theoretical Physicist",
+        "famous_for": ["Theory of Relativity", "E=mc² equation", "Nobel Prize in Physics (1921)"]
+      },
+      {
+        "name": "Mother Teresa",
+        "title": "Catholic Nun & Humanitarian",
+        "famous_for": ["Charitable Work", "Missionaries of Charity", "Nobel Peace Prize Winner"]
+      }
+    ]
+  
+  

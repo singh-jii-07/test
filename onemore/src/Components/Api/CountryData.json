@@ -1,0 +1,74 @@
+[
+      {
+        "name": "Brazil",
+        "capital": "Brasília",
+        "official_language": "Portuguese",
+        "currency": "Brazilian Real (BRL)",
+        "famous_for": ["Amazon Rainforest", "Carnival", "Football"]
+      },
+      {
+        "name": "Japan",
+        "capital": "Tokyo",
+        "official_language": "Japanese",
+        "currency": "Japanese Yen (JPY)",
+        "famous_for": ["Sushi", "Anime", "Cherry Blossoms", "Technology"]
+      },
+      {
+        "name": "South Africa",
+        "capital": ["Pretoria (Administrative)", "Cape Town (Legislative)", "Bloemfontein (Judicial)"],
+        "official_languages": ["English", "Afrikaans", "Zulu"],
+        "currency": "South African Rand (ZAR)",
+        "famous_for": ["Wildlife Safaris", "Nelson Mandela", "Table Mountain"]
+      },
+      {
+        "name": "Canada",
+        "capital": "Ottawa",
+        "official_languages": ["English", "French"],
+        "currency": "Canadian Dollar (CAD)",
+        "famous_for": ["Niagara Falls", "Maple Syrup", "Ice Hockey"]
+      },
+      {
+        "name": "India",
+        "capital": "New Delhi",
+        "official_languages": ["Hindi", "English"],
+        "currency": "Indian Rupee (INR)",
+        "famous_for": ["Taj Mahal", "Bollywood", "Spices", "Cricket"]
+      },
+      {
+        "name": "Australia",
+        "capital": "Canberra",
+        "official_language": "English",
+        "currency": "Australian Dollar (AUD)",
+        "famous_for": ["Great Barrier Reef,"," Kangaroos,", "Sydney Opera House"]
+      },
+      {
+        "name": "Germany",
+        "capital": "Berlin",
+        "official_language": "German",
+        "currency": "Euro (EUR)",
+        "famous_for": ["Oktoberfest", "Automobiles", "Castles"]
+      },
+      {
+        "name": "Egypt",
+        "capital": "Cairo",
+        "official_language": "Arabic",
+        "currency": "Egyptian Pound (EGP)",
+        "famous_for": ["Pyramids", "Sphinx", "Nile River"]
+      },
+      {
+        "name": "Argentina",
+        "capital": "Buenos Aires",
+        "official_language": "Spanish",
+        "currency": "Argentine Peso (ARS)",
+        "famous_for": ["Tango", "Football", "Beef"]
+      },
+      {
+        "name": "South Korea",
+        "capital": "Seoul",
+        "official_language": "Korean",
+        "currency": "South Korean Won (KRW)",
+        "famous_for": ["K-Pop", "Kimchi", "Samsung"]
+      }
+    ]
+  
+  

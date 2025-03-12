@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Aarav Sharma",
+      "age": 25,
+      "email": "aarav.sharma@example.com",
+      "place": "Mumbai, India"
+    },
+    {
+      "name": "Sophia Patel",
+      "age": 28,
+      "email": "sophia.patel@example.com",
+      "place": "New York, USA"
+    },
+    {
+      "name": "Liam Johnson",
+      "age": 32,
+      "email": "liam.johnson@example.com",
+      "place": "London, UK"
+    },
+    {
+      "name": "Emma Singh",
+      "age": 23,
+      "email": "emma.singh@example.com",
+      "place": "Toronto, Canada"
+    },
+    {
+      "name": "Rahul Verma",
+      "age": 30,
+      "email": "rahul.verma@example.com",
+      "place": "Bangalore, India"
+    }
+  ]
+  

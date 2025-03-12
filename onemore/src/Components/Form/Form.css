@@ -1,0 +1,26 @@
+.form-bady{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form-bady input{
+    color: white;
+    background: transparent;
+    border-radius: 10px;
+    border: 2px solid red;
+    width: 400px;
+    height: 30px;
+    margin-top: 20px;
+}
+.form-bady textarea{
+    color: white;
+    background: transparent;
+    border-radius: 10px;
+    border: 2px solid red;
+    width: 400px;
+   margin-top: 20px;
+}
+.Button button{
+    color: red;
+    margin-top: 20px;
+}

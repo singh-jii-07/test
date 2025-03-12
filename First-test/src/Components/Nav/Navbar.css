@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: gray;
+}
+.logo{
+    font-size: 42px;
+}
+.icon ul{
+    display: flex;
+}
+.icon a{
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 32px;
+}
+.icon li{
+    list-style:none;
+
+}
