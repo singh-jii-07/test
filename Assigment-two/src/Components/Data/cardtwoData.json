@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Crispy Salmon Bowl",
+      "price": "$3.69",
+      "button": "Add"
+    },
+    {
+      "name": "Steak Bowl",
+      "price": "$3.69",
+      "button": "Add"
+    },
+    {
+      "name": "Vegan Protein Bowl",
+      "price": "$3.69",
+      "button": "Add"
+    },
+    {
+      "name": "Avocado Egg Bowl",
+      "price": "$3.69",
+      "button": "Add"
+    },
+    {
+      "name": "Buffalo Chicken Bowl",
+      "price": "$3.69",
+      "button": "Add"
+    }
+  ]
+  
