@@ -1,0 +1,52 @@
+
+.card-body{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid black;
+   margin-top: 15px;
+   background: white;
+   border-radius: 30px;
+   height: 200px;
+
+}
+.img img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+}
+.img{
+    display: flex;
+    align-items: center;
+}
+.icon{
+    display: flex;
+    gap: 10px;
+}
+.card{
+    width: 800px;
+   margin-left: 400px;
+}
+.button{
+    display: flex;
+    gap: 4px;
+    align-items: center;
+    justify-content: end;
+    width: 800px;
+    margin-left: 400px;
+    margin-bottom: 20px;
+    
+}
+.button1 button{
+    color: white;
+    background: orange;
+    border: none;
+    cursor: pointer;
+}
+.button2 button{
+    border: none;
+    cursor: pointer;
+}
+.icon{
+    cursor: pointer;
+}
