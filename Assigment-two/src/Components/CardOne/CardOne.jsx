@@ -1,12 +1,22 @@
 import React from 'react'
 import data from'../Data/cardoneData.json'
+import "./cardOne.css"
 const CardOne = () => {
   return (
-    <div>
+    <div className='food-tem'>
       {
         data.map((index,info)=>{
             return(
-                <div key={info}>
+                <div key={info} className='food'>
+                  <div className='food-body'>
+                  <div className="text">
+                    <h1>{index.name}</h1>
+                    <p>{index.description}</p>
+                  </div>
+                  <div className="image">
+                    <img src={index.image} alt="" />
+                  </div>
+                  </div>
                   
                 </div>
             )
