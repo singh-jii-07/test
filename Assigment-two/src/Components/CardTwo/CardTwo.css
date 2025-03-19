@@ -1,0 +1,10 @@
+.img img{
+    width: 200px;
+    height: 100px;
+}
+.data-food{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}

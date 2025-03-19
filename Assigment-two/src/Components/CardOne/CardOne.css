@@ -2,7 +2,8 @@
     border: 1px solid black;
     display: flex;
     align-items: center;
-
+    border-radius: 30px;
+padding: 10px;
 }
 .food-tem{
     display: flex;
