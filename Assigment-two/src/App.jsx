@@ -5,12 +5,14 @@ function App() {
   
 
   return (
-    <>
+  <div className='body-color'>
     <h1>Based on your Search</h1>
 <CardOne/>
 
 <CardTwo/>
-    </>
+  </div>
+
+    
   )
 }
 

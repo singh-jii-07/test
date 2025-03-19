@@ -8,3 +8,8 @@
     align-items: center;
     justify-content: center;
 }
+.data-fo{
+    border: 1px solid;
+    padding: 2px;
+    background: white;
+}
