@@ -15,6 +15,7 @@ const CardOne = () => {
                   </div>
                   <div className="image">
                     <img src={index.image} alt="" />
+                  <button>{index.button}</button>
                   </div>
                   </div>
                   
